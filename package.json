@@ -17,7 +17,7 @@
     "nan": "^2.14.0"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
+    "chai": "^5.0.0",
     "chai-string": "^1.5.0",
     "clang-format": "^1.2.4",
     "dmd-clear": "^0.1.2",
