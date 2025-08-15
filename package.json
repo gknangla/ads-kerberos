@@ -27,7 +27,7 @@
     "mocha": "^11.0.0",
     "mongodb": "^6.0.0",
     "prebuild": "^13.0.0",
-    "prebuild-ci": "^2.2.3",
+    "prebuild-ci": "^4.0.0",
     "prettier": "^1.17.1",
     "request": "^2.88.0",
     "segfault-handler": "^1.2.0",
